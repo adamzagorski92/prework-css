@@ -1,0 +1,27 @@
+body {
+    max-width: 100%;
+    background-color: #f5f5dd;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#visible1 {
+    background-color: rgba(0, 0, 0, 1);
+}
+#visible2 {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#visible3 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+#visible4 {
+    background-color: rgba(0, 0, 0, 0.1);
+}
