@@ -1,0 +1,22 @@
+body {
+    max-width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 2em;
+}
+
+p {
+    background-color: red;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.opacity {
+    color: white;
+    opacity: 0.7;
+}
