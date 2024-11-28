@@ -1,0 +1,16 @@
+body {
+    background-color: #808080;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: #fea500 ;
+    margin: 10px;
+}
